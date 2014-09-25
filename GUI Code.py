@@ -2,12 +2,13 @@
 # -*- coding: utf-8 -*-
 
 # Copyright: Emerson Grabke (2014)
+# Written in Python 2.7.6
 
 # Special thanks to:
 # PYPDF (Copyright 2006, Mathieu Fenniak, Copyright 2007, Ashish Kulkarni)
 # Bryan Helmig for the Crossword algorithm (Copyright 2010, Bryan Helmig)
 # And rboulton (through GitHub) for the Wordsearch algorithm!
-#
+
 # In accordance with copyrights, this software is free to use and distribute"
 
 import wx
