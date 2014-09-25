@@ -5,6 +5,7 @@
 # Written in Python 2.7.6
 
 # Special thanks to:
+# WxGlade for the basic GUI layout
 # PYPDF (Copyright 2006, Mathieu Fenniak, Copyright 2007, Ashish Kulkarni)
 # Bryan Helmig for the Crossword algorithm (Copyright 2010, Bryan Helmig)
 # And rboulton (through GitHub) for the Wordsearch algorithm!
